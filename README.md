@@ -8,5 +8,5 @@
 Модель обучалась в Google Colab.
 
 # Скриншот лучшего сабмита на LB
-![alt text](https://github.com/RomBrs/made_1000kp/best_submit.png "Best Submit")
+![](https://github.com/RomBrs/made_1000kp/blob/master/best_submit.png "Best Submit")
 
